@@ -5,19 +5,19 @@
     <description>UBP Pocket App update notifications</description>
     <language>es-ar</language>
     <item>
-      <title>Version 1.3.6</title>
+      <title>Version 1.3.7</title>
       <description>Latest version of UBP Pocket App with improved features and bug fixes</description>
       <pubDate>Mon, 15 Sep 2025 12:00:00 +0000</pubDate>
-      <enclosure sparkle:version="1.3.6" />
+      <enclosure sparkle:version="1.3.7" />
     </item>
     <item>
-      <title>Version 1.3.5</title>
+      <title>Version 1.3.6</title>
       <description>Previous version with enhanced user experience</description>
       <pubDate>Mon, 01 Jan 2025 10:00:00 +0000</pubDate>
       <enclosure sparkle:version="1.3.5" />
     </item>
     <item>
-      <title>Version 1.3.4</title>
+      <title>Version 1.3.5</title>
       <description>Performance improvements and security updates</description>
       <pubDate>Wed, 15 Dec 2024 16:45:00 +0000</pubDate>
       <enclosure sparkle:version="1.3.4" />
